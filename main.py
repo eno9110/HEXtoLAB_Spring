@@ -76,7 +76,7 @@ for hex_color, (l, a, b) in zip(hex_colors, lab_colors):
 # === グラフレイアウト設定 ===
 fig.update_layout(
     title=dict(
-        text="SpringPalette",
+        text="Jackson's Palette, SPRING",
         y=0.95,#タイトルを上部へ移動，デフォルト0.9
         x=0.5,#中央揃え
         xanchor="center",#中央揃え
