@@ -96,6 +96,6 @@ fig.update_layout(
 )
 
 # === Streamlitで3Dグラフ表示 ===
-st.write("### L* a* b* 色空間 3D可視化_spring")
+st.write("### Jackson's_spring")
 st.plotly_chart(fig)
 
