@@ -96,6 +96,6 @@ fig.update_layout(
 )
 
 # === Streamlitで3Dグラフ表示 ===
-st.write("### Jackson's_spring")
+st.write("### Jackson's Palette")
 st.plotly_chart(fig)
 
